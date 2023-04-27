@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamDupuy
-- 👀 I’m interested in Softare Engineering.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently a student at LSU.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me:
